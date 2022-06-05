@@ -1,0 +1,3 @@
+FROM loadimpact/k6
+
+RUN k6 login cloud -t 4f4bd1831ce6b42dbc273b97e60c10b72dab388919202ee37b9f4294544b77e2
